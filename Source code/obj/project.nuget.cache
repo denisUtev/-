@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rRqUy5C2xxsBjbh4z35QvhO24P33bjiVzwVShujkt4Q41XsoDXmSh7fi/fOMsgn0GcqAA8NmC6nh7HWNub1qBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\utev2\\OneDrive\\Рабочий стол\\C#\\Игра по проге\\Strongest Tank\\Strongest Tank\\UTanks.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\utev2\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\utev2\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}
